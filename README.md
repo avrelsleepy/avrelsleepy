@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @7vaed
+- 👀 I’m interested in network and optimization
+- 🌱 I’m currently learning C++
+- 😄 Pronouns: he/any
